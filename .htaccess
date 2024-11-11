@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Redirect /jul to /jul.php
+RewriteRule ^jul$ jul.php [L]
