@@ -53,7 +53,7 @@
             <div class="col-md-3 d-flex flex-column">
                 <img src="/img/nytaar-2025.png" class="img-fluid" alt="Nytårsgalla Event">
                 <br />
-                <a href="" class="btn btn-success btn-lg" tabindex="-1" role="button" target="_blank">Billetsalget åbner snart</a>
+                <a href="https://tikkio.com/tickets/51226-nytarsgalla-2025" class="btn btn-success btn-lg" tabindex="-1" role="button" target="_blank">Køb din billet til Nytårgalla 2025 i Lyngby her</a>
             </div>
             <div class="col-md-3 d-flex flex-column justify-content-center">
                 <h2>Nytårskoncert 2025</h2>
