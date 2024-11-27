@@ -57,7 +57,7 @@
             </div>
             <div class="col-md-3 d-flex flex-column justify-content-center">
                 <h2>Nytårskoncert 2025</h2>
-                <p>Glæd jer til at opleve Lyngby-Taarbæk Brass Bands traditionsrige Nytårskoncert <strong>lørdag den 11. januar 2025 kl. 16:00</strong>, hvor vi skyder det nye år i gang med en magisk aften i musikkens tegn. I år er vi stolte af at præsentere den anerkendte danske sopran, Kiki Brandt, som aftenens solist.</p>
+                <p>Glæd jer til at opleve Lyngby-Taarbæk Brass Bands traditionsrige Nytårskoncert <strong>lørdag den 11. januar 2025 kl. 15:00</strong>, hvor vi skyder det nye år i gang med en magisk aften i musikkens tegn. I år er vi stolte af at præsentere den anerkendte danske sopran, Kiki Brandt, som aftenens solist.</p>
                 <p>Kiki Brandt er uddannet fra Det Fynske Musikkonservatorium og har en imponerende karriere bag sig med hovedroller i klassiske musicals som Oklahoma og West Side Story, og med engagementer på Den Jyske Opera, Det Ny Teater og Holbæk Teater. Hun har optrådt i store operaer og koncerter over hele landet og har bl.a. været solist med flere af landets symfoniorkestre. Med en stemme og udstråling, der favner både klassisk opera og moderne musikalitet, vil Kiki tilføre koncerten en særlig glans og varme.</p>
                 <p>Under ledelse af dirigent Susanne Vibæk og med den velkendte Johannes Langkilde som konferencier, inviterer vi jer til en nytårsaften med storslået musik, energi og elegance. Kom og fejr begyndelsen på 2025 med en koncert, der både overrasker og begejstrer – det perfekte startskud på det nye år!</p>
             </div>
